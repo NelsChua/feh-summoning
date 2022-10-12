@@ -8,6 +8,13 @@
 \description{
 Produces orb cost distribution based on a user's desired outcomes.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://nelschua.github.io/feh-summoning/}
+}
+
+}
 \author{
 \strong{Maintainer}: Nelson Chua \email{nelson.chua@hotmail.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
