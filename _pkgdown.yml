@@ -1,4 +1,10 @@
 url: https://nelschua.github.io/feh-summoning/
 template:
   bootstrap: 5
-
+  bootswatch: sketchy
+navbar:
+  bg: primary
+  type: dark
+  structure:
+    left:  [intro, reference, articles, tutorials, news]
+    right: [github, search]
