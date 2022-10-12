@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/NelsChua/feh-summoning/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/NelsChua/feh-summoning/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/NelsChua/feh-summoning/branch/main/graph/badge.svg)](https://app.codecov.io/gh/NelsChua/feh-summoning?branch=main)
 <!-- badges: end -->
 
 Flap flap flap...flap flap flap...feeeeeeehhhh. Helloooooo summonerssssss.
